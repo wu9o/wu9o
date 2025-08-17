@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm wu9o 👋</h1>
 
 <p align="center">
-  <a href="https://your-blog-link.com">
-    <img src="https://img.shields.io/badge/Blog-YourSite-blue?style=flat-square&logo=ghost" />
+  <a href="https://wu9o.github.io/cogita/">
+    <img src="https://img.shields.io/badge/Blog-MySite-blue?style=flat-square&logo=ghost" />
   </a>
   <a href="mailto:wu9ors@gmail.com">
     <img src="https://img.shields.io/badge/Email-ContactMe-red?style=flat-square&logo=gmail" />
@@ -15,15 +15,19 @@
   </a>
 </p>
 
-<p align="center">
-  I'm a passionate developer from <strong>China</strong>, with a strong interest in open source and building innovative solutions. <br />
-  Currently, I'm focusing on <strong>Micro-Frontends, AI, and Vim customization</strong>. <br />
-  I enjoy exploring new technologies and sharing my knowledge with the community.
+<p>
+  I'm a passionate open-source developer from <strong>China</strong>, dedicated to building tools that enhance developer productivity and experience. My work is currently centered around <strong>Micro-Frontends</strong>, the practical applications of <strong>AI</strong>, and creating powerful, personalized <strong>Vim</strong> workflows. You can see these interests in action in my projects below, and I enjoy sharing my learnings with the community.
 </p>
 
 ---
 
-### 🚀 What I Do
+### 🚀 My Projects
+
+- 🚀 **[NEXUS-MF](https://github.com/wu9o/nexus-mf):** A pluggable, sandbox-based micro-frontend framework.
+- 📝 **[COGITA](https://github.com/wu9o/cogita):** An out-of-the-box static blog system based on Rspress.
+- ⌨️ **[VIM-CHEATKEY](https://github.com/wu9o/vim-cheatkey):** A searchable cheat sheet for Vim keybindings, powered by fzf.
+
+### 💡 What I'm Focusing On
 
 - 🧩 **Micro-Frontends:** Building scalable and independent front-end architectures.
 - 🤖 **AI & Machine Learning:** Exploring the intersection of AI and modern software development.
