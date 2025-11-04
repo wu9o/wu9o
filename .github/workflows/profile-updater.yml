@@ -1,8 +1,8 @@
-name: Update Profile README
+name: 更新个人资料README
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
+    - cron: '0 0 * * *' # 每天午夜UTC时间执行一次
   workflow_dispatch:
 
 jobs:
@@ -11,24 +11,24 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout
+      - name: 检出代码
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup Node.js
+      - name: 设置Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
 
-      - name: Install dependencies
+      - name: 安装依赖
         run: npm ci
 
-      - name: Run build script
+      - name: 运行构建脚本
         run: npm run build
 
-      - name: Check for changes
+      - name: 检查文件更改
         id: verify-changed-files
         run: |
           if [ -n "$(git status --porcelain)" ]; then
@@ -37,11 +37,11 @@ jobs:
             echo "changed=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Commit and push changes
+      - name: 提交并推送更改
         if: steps.verify-changed-files.outputs.changed == 'true'
         run: |
           git config --local user.name 'github-actions[bot]'
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md README.en.md
-          git commit -m "chore: update profile README (CN/EN) [skip ci]"
+          git commit -m "chore: 更新个人资料README (中文/英文) [skip ci]"
           git push
