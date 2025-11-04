@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-  <i>最后更新时间: {DATE}</i>
+  <i>最后更新时间: 2025年11月4日 10:33</i>
 </p>
 
 <p align="center">

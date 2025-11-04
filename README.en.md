@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-  <i>Last updated: {DATE}</i>
+  <i>Last updated: November 4, 2025 at 02:33 AM</i>
 </p>
 
 <p align="center">
