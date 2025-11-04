@@ -73,6 +73,8 @@
 ### 📝 最近的博客文章
 
 <!-- BLOG-POST-LIST:START -->
+* [Git Rebase 技术原理与实践指南](https://wu9o.github.io/cogita/posts/git-rebase) - 2025年10月29日
+* [Cogita：为 Rspress 打造的开箱即用博客框架](https://wu9o.github.io/cogita/posts/introducing-cogita) - 2025年8月17日
 <!-- BLOG-POST-LIST:END -->
 
 ---
