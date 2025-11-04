@@ -1,3 +1,9 @@
+<div align="right">
+  
+  **[🇺🇸 English](./README.en.md)** | **🇨🇳 中文**
+
+</div>
+
 <h1 align="center">你好，我是 wu9o 👋</h1>
 
 <div align="center">

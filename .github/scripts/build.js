@@ -7,11 +7,9 @@ const parser = new Parser();
 const RSS_FEED_URL = 'https://wu9o.github.io/cogita/rss.xml'; 
 const MAX_POSTS = 5; // Number of posts to display
 
-async function updateReadme() {
+async function updateReadme(filePath, locale = 'zh-CN') {
   try {
-    // Read the README template
-    const readmePath = './README.md';
-    let readmeContent = fs.readFileSync(readmePath, 'utf-8');
+    let readmeContent = fs.readFileSync(filePath, 'utf-8');
 
     try {
       // Fetch and parse the RSS feed
@@ -20,7 +18,7 @@ async function updateReadme() {
       
       // Get the latest posts
       const latestPosts = feed.items.slice(0, MAX_POSTS).map(item => {
-        const date = new Date(item.pubDate).toLocaleDateString('zh-CN', {
+        const date = new Date(item.pubDate).toLocaleDateString(locale, {
           year: 'numeric',
           month: 'long',
           day: 'numeric'
@@ -36,9 +34,9 @@ async function updateReadme() {
           blogPostListRegex,
           `<!-- BLOG-POST-LIST:START -->\n${latestPosts}\n<!-- BLOG-POST-LIST:END -->`
         );
-        console.log('Blog posts updated successfully');
+        console.log(`Blog posts updated successfully for ${filePath}`);
       } else {
-        console.log('Blog post placeholders not found in README');
+        console.log(`Blog post placeholders not found in ${filePath}`);
       }
     } catch (feedError) {
       console.error('Error fetching RSS feed:', feedError.message);
@@ -47,10 +45,11 @@ async function updateReadme() {
 
     // Replace the date placeholder
     const dateRegex = /{DATE}/g;
+    const timeZone = locale === 'zh-CN' ? 'Asia/Shanghai' : 'UTC';
     const updatedReadme = readmeContent.replace(
         dateRegex,
-        new Date().toLocaleString('zh-CN', {
-          timeZone: 'Asia/Shanghai',
+        new Date().toLocaleString(locale, {
+          timeZone: timeZone,
           year: 'numeric',
           month: 'long',
           day: 'numeric',
@@ -60,13 +59,28 @@ async function updateReadme() {
     );
 
     // Write the new content back to the README
-    fs.writeFileSync(readmePath, updatedReadme);
-    console.log('README updated successfully.');
+    fs.writeFileSync(filePath, updatedReadme);
+    console.log(`${filePath} updated successfully.`);
 
   } catch (error) {
-    console.error('Error updating README:', error);
+    console.error(`Error updating ${filePath}:`, error);
+    throw error;
+  }
+}
+
+async function updateAllReadmes() {
+  try {
+    // Update Chinese README (main)
+    await updateReadme('./README.md', 'zh-CN');
+    
+    // Update English README
+    await updateReadme('./README.en.md', 'en-US');
+    
+    console.log('All README files updated successfully.');
+  } catch (error) {
+    console.error('Error updating README files:', error);
     process.exit(1);
   }
 }
 
-updateReadme();
+updateAllReadmes();
