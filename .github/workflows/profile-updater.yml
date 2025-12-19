@@ -42,6 +42,6 @@ jobs:
         run: |
           git config --local user.name 'github-actions[bot]'
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md README.en.md
-          git commit -m "chore: 更新个人资料README (中文/英文) [skip ci]"
+          git add README.md README.zh.md
+          git commit -m "chore: 更新个人资料README (英文/中文) [skip ci]"
           git push
