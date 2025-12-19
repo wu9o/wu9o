@@ -70,11 +70,11 @@ async function updateReadme(filePath, locale = 'zh-CN') {
 
 async function updateAllReadmes() {
   try {
-    // Update Chinese README (main)
-    await updateReadme('./README.md', 'zh-CN');
+    // Update English README (main)
+    await updateReadme('./README.md', 'en-US');
     
-    // Update English README
-    await updateReadme('./README.en.md', 'en-US');
+    // Update Chinese README
+    await updateReadme('./README.zh.md', 'zh-CN');
     
     console.log('All README files updated successfully.');
   } catch (error) {

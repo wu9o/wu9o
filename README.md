@@ -1,10 +1,10 @@
 <div align="right">
   
-  **[🇺🇸 English](./README.en.md)** | **🇨🇳 中文**
+  **🇺🇸 English** | **[🇨🇳 中文](./README.zh.md)**
 
 </div>
 
-<h1 align="center">你好，我是 wu9o 👋</h1>
+<h1 align="center">Hi, I'm wu9o 👋</h1>
 
 <div align="center">
   
@@ -15,27 +15,27 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻-前端工程师-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/💻-Frontend_Engineer-blue?style=flat-square" />
 </p>
 
 <p>
-  我是一名热爱开源的前端工程师，专注于构建提升开发者生产力的工具和框架。在<strong>微前端架构</strong>、<strong>静态站点生成</strong>和<strong>开发者工具</strong>领域有着深入的实践经验。相信通过优秀的工具，可以让编程变得更高效、更有趣。
+  I'm a passionate frontend engineer who loves open source, focusing on building tools and frameworks that enhance developer productivity. I have deep practical experience in <strong>Micro-Frontend Architecture</strong>, <strong>Static Site Generation</strong>, and <strong>Developer Tools</strong>. I believe that excellent tools can make programming more efficient and enjoyable.
 </p>
 
 ---
 
-### 🚀 主要项目
+### 🚀 Featured Projects
 
-**🏗️ [NEXUS-MF](https://github.com/wu9o/nexus-mf)** - 插件化微前端框架  
-*沙箱隔离的模块化Web应用解决方案*
+**🏗️ [NEXUS-MF](https://github.com/wu9o/nexus-mf)** - Pluggable Micro-Frontend Framework  
+*Modular web application solutions with sandbox isolation*
 
-**📝 [COGITA](https://github.com/wu9o/cogita)** - 静态博客系统  
-*基于Rspress，支持插件架构的现代化博客*
+**📝 [COGITA](https://github.com/wu9o/cogita)** - Static Blog System  
+*Modern blog based on Rspress with plugin architecture*
 
-**⌨️ [VIM-CHEATKEY](https://github.com/wu9o/vim-cheatkey)** - Vim工具  
-*fzf驱动的可搜索快捷键备忘录*
+**⌨️ [VIM-CHEATKEY](https://github.com/wu9o/vim-cheatkey)** - Vim Tool  
+*Searchable Vim keybinding cheatsheet powered by fzf*
 
-### 💡 技术栈与专长
+### 💡 Tech Stack & Expertise
 
 <p>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -46,23 +46,23 @@
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
 </p>
 
-**🎯 专注领域：** 微前端架构 • 开发者工具 • 静态站点生成 • 性能优化 • 工程化实践
+**🎯 Focus Areas:** Micro-Frontend Architecture • Developer Tools • Static Site Generation • Performance Optimization • Engineering Practices
 
 ---
 
-### 📈 GitHub 统计
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wu9o&show_icons=true&theme=radical&locale=cn&hide_border=true&bg_color=0D1117" alt="GitHub 统计" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wu9o&show_icons=true&theme=radical&locale=en&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wu9o&layout=compact&theme=radical&locale=cn&hide_border=true&bg_color=0D1117" alt="最常用的语言" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wu9o&layout=compact&theme=radical&locale=en&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
 </p>
 
 ---
 
-### 🏆 GitHub 成就
+### 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wu9o&theme=nord&column=7&margin-w=15&margin-h=15" />
@@ -70,16 +70,16 @@
 
 ---
 
-### 📝 最近的博客文章
+### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-* [Git Rebase 技术原理与实践指南](https://wu9o.github.io/cogita/posts/git-rebase) - 2025年10月29日
-* [Cogita：为 Rspress 打造的开箱即用博客框架](https://wu9o.github.io/cogita/posts/introducing-cogita) - 2025年8月17日
+* [Git Rebase 技术原理与实践指南](https://wu9o.github.io/cogita/posts/git-rebase) - October 29, 2025
+* [Cogita：为 Rspress 打造的开箱即用博客框架](https://wu9o.github.io/cogita/posts/introducing-cogita) - August 17, 2025
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### ⚡ 最近活动
+### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -91,9 +91,9 @@
 </p>
 
 <p align="center">
-  <i>最后更新时间: 2025年11月4日 10:33</i>
+  <i>Last updated: November 4, 2025 at 02:33 AM</i>
 </p>
 
 <p align="center">
-  ❤️ 感谢您的访问！如果您对我的项目感兴趣，欢迎 star ⭐️ 或者一起讨论技术话题
+  ❤️ Thanks for visiting! If you find my projects interesting, feel free to star ⭐️ or discuss tech topics together
 </p>
