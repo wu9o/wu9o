@@ -73,6 +73,7 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+* [Git Rebase 排障实录：重复 Commit 如何悄悄覆盖已有的 Fix](https://wu9o.github.io/cogita/posts/git-rebase-duplicate-commit) - April 28, 2026
 * [AI 编程时代：程序员就业冲击还是职业重构？](https://wu9o.github.io/cogita/posts/ai-programming-employment-impact) - December 19, 2025
 * [Git Rebase 技术原理与实践指南](https://wu9o.github.io/cogita/posts/git-rebase) - October 29, 2025
 * [Cogita：为 Rspress 打造的开箱即用博客框架](https://wu9o.github.io/cogita/posts/introducing-cogita) - August 17, 2025
