@@ -84,8 +84,8 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/wu9o/warp-cn/pull/2) in [wu9o/warp-cn](https://github.com/wu9o/warp-cn)
-2. 💪 Opened PR [#2](https://github.com/wu9o/warp-cn/pull/2) in [wu9o/warp-cn](https://github.com/wu9o/warp-cn)
+1. 🎉 Merged PR [#8](https://github.com/wu9o/cogita/pull/8) in [wu9o/cogita](https://github.com/wu9o/cogita)
+2. 💪 Opened PR [#8](https://github.com/wu9o/cogita/pull/8) in [wu9o/cogita](https://github.com/wu9o/cogita)
 3. 🎉 Merged PR [#1](https://github.com/wu9o/warp-cn/pull/1) in [wu9o/warp-cn](https://github.com/wu9o/warp-cn)
 4. 💪 Opened PR [#1](https://github.com/wu9o/warp-cn/pull/1) in [wu9o/warp-cn](https://github.com/wu9o/warp-cn)
 <!--END_SECTION:activity-->
