@@ -73,11 +73,11 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+* [Git 本地常驻修改：让文件改动只存在于你的电脑上](https://wu9o.github.io/cogita/posts/git-local-persistent-modifications) - August 11, 2026
+* [Git Interactive Rebase 实战：如何时光倒流修复已提交的 Commit](https://wu9o.github.io/cogita/posts/git-interactive-rebase) - August 11, 2026
 * [Git Rebase 排障实录：重复 Commit 如何悄悄覆盖已有的 Fix](https://wu9o.github.io/cogita/posts/git-rebase-duplicate-commit) - April 28, 2026
 * [AI 编程时代：程序员就业冲击还是职业重构？](https://wu9o.github.io/cogita/posts/ai-programming-employment-impact) - December 19, 2025
 * [Git Rebase 技术原理与实践指南](https://wu9o.github.io/cogita/posts/git-rebase) - October 29, 2025
-* [Cogita：为 Rspress 打造的开箱即用博客框架](https://wu9o.github.io/cogita/posts/introducing-cogita) - August 17, 2025
-* [TypeScript 高级类型系统](https://wu9o.github.io/cogita/posts/typescript-advanced-types) - January 2, 2025
 <!-- BLOG-POST-LIST:END -->
 
 ---
