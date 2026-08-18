@@ -85,10 +85,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/wu9o/cogita/pull/10) in [wu9o/cogita](https://github.com/wu9o/cogita)
-2. 💪 Opened PR [#10](https://github.com/wu9o/cogita/pull/10) in [wu9o/cogita](https://github.com/wu9o/cogita)
-3. 🎉 Merged PR [#8](https://github.com/wu9o/cogita/pull/8) in [wu9o/cogita](https://github.com/wu9o/cogita)
-4. 💪 Opened PR [#8](https://github.com/wu9o/cogita/pull/8) in [wu9o/cogita](https://github.com/wu9o/cogita)
+1. 🎉 Merged PR [#12](https://github.com/wu9o/cogita/pull/12) in [wu9o/cogita](https://github.com/wu9o/cogita)
+2. 💪 Opened PR [#12](https://github.com/wu9o/cogita/pull/12) in [wu9o/cogita](https://github.com/wu9o/cogita)
+3. 🎉 Merged PR [#10](https://github.com/wu9o/cogita/pull/10) in [wu9o/cogita](https://github.com/wu9o/cogita)
+4. 💪 Opened PR [#10](https://github.com/wu9o/cogita/pull/10) in [wu9o/cogita](https://github.com/wu9o/cogita)
 <!--END_SECTION:activity-->
 
 ---
