@@ -15,11 +15,11 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻-前端工程师-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠-AI_知识库建设者-blue?style=flat-square" />
 </p>
 
 <p>
-  我是一名热爱开源的前端工程师，专注于构建提升开发者生产力的工具和框架。在<strong>微前端架构</strong>、<strong>静态站点生成</strong>和<strong>开发者工具</strong>领域有着深入的实践经验。相信通过优秀的工具，可以让编程变得更高效、更有趣。
+  我是一名关注 AI 应用与知识工程的开发者。在前端系统和开发者工具方面积累多年实践后，目前主要聚焦于<strong>AI 知识库建设</strong>：探索如何对知识进行整理、结构化、检索与持续维护，让个人经验和公开资料真正变成可复用、可演进的知识系统。同时也持续关注 AI 编程、软件工程与开源。
 </p>
 
 ---
@@ -46,26 +46,16 @@
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
 </p>
 
-**🎯 专注领域：** 微前端架构 • 开发者工具 • 静态站点生成 • 性能优化 • 工程化实践
+**🎯 当前聚焦：** AI 知识库 • 知识工程 • AI 编程 • 开发者工具 • 前端架构
 
 ---
 
-### 📈 GitHub 统计
+### 📊 GitHub 概览
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wu9o&show_icons=true&theme=radical&locale=cn&hide_border=true&bg_color=0D1117" alt="GitHub 统计" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wu9o&layout=compact&theme=radical&locale=cn&hide_border=true&bg_color=0D1117" alt="最常用的语言" />
-</p>
-
----
-
-### 🏆 GitHub 成就
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wu9o&theme=nord&column=7&margin-w=15&margin-h=15" />
+  <img src="https://img.shields.io/github/followers/wu9o?style=flat&label=followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/wu9o?affiliations=OWNER&style=flat&label=stars" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/last-commit/wu9o/wu9o?style=flat&label=profile%20updated" alt="Last profile update" />
 </p>
 
 ---
@@ -85,6 +75,10 @@
 ### ⚡ 最近活动
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#12](https://github.com/wu9o/cogita/pull/12) in [wu9o/cogita](https://github.com/wu9o/cogita)
+2. 💪 Opened PR [#12](https://github.com/wu9o/cogita/pull/12) in [wu9o/cogita](https://github.com/wu9o/cogita)
+3. 🎉 Merged PR [#10](https://github.com/wu9o/cogita/pull/10) in [wu9o/cogita](https://github.com/wu9o/cogita)
+4. 💪 Opened PR [#10](https://github.com/wu9o/cogita/pull/10) in [wu9o/cogita](https://github.com/wu9o/cogita)
 <!--END_SECTION:activity-->
 
 ---
@@ -94,7 +88,9 @@
 </p>
 
 <p align="center">
-  <i>最后更新时间: 2025年11月4日 10:33</i>
+  <!-- PROFILE-UPDATED:START -->
+  <i>最后更新时间: 2026年8月21日 14:34</i>
+  <!-- PROFILE-UPDATED:END -->
 </p>
 
 <p align="center">
