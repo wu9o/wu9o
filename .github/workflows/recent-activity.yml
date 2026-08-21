@@ -29,3 +29,15 @@ jobs:
           COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
           TARGET_FILE: README.md
           EMPTY_COMMIT_MSG: ':memo: 空提交以在60天无活动后保持工作流活跃'
+
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'chore: 更新最近活动（中文） [skip ci]'
+          MAX_LINES: 5
+          GH_USERNAME: wu9o
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          TARGET_FILE: README.zh.md
+          EMPTY_COMMIT_MSG: ':memo: 空提交以在60天无活动后保持工作流活跃'

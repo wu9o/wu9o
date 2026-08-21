@@ -15,11 +15,11 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻-Frontend_Engineer-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠-AI_Knowledge_Builder-blue?style=flat-square" />
 </p>
 
 <p>
-  I'm a passionate frontend engineer who loves open source, focusing on building tools and frameworks that enhance developer productivity. I have deep practical experience in <strong>Micro-Frontend Architecture</strong>, <strong>Static Site Generation</strong>, and <strong>Developer Tools</strong>. I believe that excellent tools can make programming more efficient and enjoyable.
+  I'm an engineer exploring AI applications and knowledge engineering. After years of building frontend systems and developer tools, I'm now focusing on building <strong>AI knowledge bases</strong>—organizing, structuring, retrieving, and continuously maintaining knowledge so it can become a reusable, evolving system. I also write about AI-assisted programming, software engineering, and open source.
 </p>
 
 ---
@@ -46,26 +46,16 @@
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
 </p>
 
-**🎯 Focus Areas:** Micro-Frontend Architecture • Developer Tools • Static Site Generation • Performance Optimization • Engineering Practices
+**🎯 Current Focus:** AI Knowledge Bases • Knowledge Engineering • AI-assisted Programming • Developer Tools • Frontend Architecture
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wu9o&show_icons=true&theme=radical&locale=en&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wu9o&layout=compact&theme=radical&locale=en&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wu9o&theme=nord&column=7&margin-w=15&margin-h=15" />
+  <img src="https://img.shields.io/github/followers/wu9o?style=flat&label=followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/wu9o?affiliations=OWNER&style=flat&label=stars" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/last-commit/wu9o/wu9o?style=flat&label=profile%20updated" alt="Last profile update" />
 </p>
 
 ---
@@ -98,7 +88,9 @@
 </p>
 
 <p align="center">
-  <i>Last updated: November 4, 2025 at 02:33 AM</i>
+  <!-- PROFILE-UPDATED:START -->
+  <i>Last updated: August 21, 2026 at 06:34 AM</i>
+  <!-- PROFILE-UPDATED:END -->
 </p>
 
 <p align="center">

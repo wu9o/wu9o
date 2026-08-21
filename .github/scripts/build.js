@@ -43,19 +43,20 @@ async function updateReadme(filePath, locale = 'zh-CN') {
       console.log('Continuing without updating blog posts...');
     }
 
-    // Replace the date placeholder
-    const dateRegex = /{DATE}/g;
+    // Replace the generated profile update marker
     const timeZone = locale === 'zh-CN' ? 'Asia/Shanghai' : 'UTC';
-    const updatedReadme = readmeContent.replace(
-        dateRegex,
-        new Date().toLocaleString(locale, {
+    const updatedAt = new Date().toLocaleString(locale, {
           timeZone: timeZone,
           year: 'numeric',
           month: 'long',
           day: 'numeric',
           hour: '2-digit',
           minute: '2-digit'
-        })
+        });
+    const updatedLabel = locale === 'zh-CN' ? '最后更新时间' : 'Last updated';
+    const updatedReadme = readmeContent.replace(
+      /<!-- PROFILE-UPDATED:START -->[\s\S]*?<!-- PROFILE-UPDATED:END -->/,
+      `<!-- PROFILE-UPDATED:START -->\n  <i>${updatedLabel}: ${updatedAt}</i>\n  <!-- PROFILE-UPDATED:END -->`
     );
 
     // Write the new content back to the README
