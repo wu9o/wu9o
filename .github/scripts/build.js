@@ -4,7 +4,7 @@ const Parser = require('rss-parser');
 const parser = new Parser();
 
 // Replace with your blog's RSS feed URL
-const RSS_FEED_URL = 'https://wu9o.github.io/cogita/rss.xml'; 
+const RSS_FEED_URL = 'https://wu9o.github.io/cogita-blog/rss.xml';
 const MAX_POSTS = 5; // Number of posts to display
 
 async function updateReadme(filePath, locale = 'zh-CN') {
