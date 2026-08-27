@@ -61,10 +61,10 @@
 ### Open-source activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/wu9o/cogita/pull/49) in [wu9o/cogita](https://github.com/wu9o/cogita)
-2. 💪 Opened PR [#49](https://github.com/wu9o/cogita/pull/49) in [wu9o/cogita](https://github.com/wu9o/cogita)
-3. 🎉 Merged PR [#47](https://github.com/wu9o/cogita/pull/47) in [wu9o/cogita](https://github.com/wu9o/cogita)
-4. 💪 Opened PR [#47](https://github.com/wu9o/cogita/pull/47) in [wu9o/cogita](https://github.com/wu9o/cogita)
+1. 🎉 Merged PR [#51](https://github.com/wu9o/cogita/pull/51) in [wu9o/cogita](https://github.com/wu9o/cogita)
+2. 💪 Opened PR [#51](https://github.com/wu9o/cogita/pull/51) in [wu9o/cogita](https://github.com/wu9o/cogita)
+3. 🎉 Merged PR [#49](https://github.com/wu9o/cogita/pull/49) in [wu9o/cogita](https://github.com/wu9o/cogita)
+4. 💪 Opened PR [#49](https://github.com/wu9o/cogita/pull/49) in [wu9o/cogita](https://github.com/wu9o/cogita)
 <!--END_SECTION:activity-->
 
 <p align="center">
