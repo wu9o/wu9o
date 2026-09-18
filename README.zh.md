@@ -61,10 +61,10 @@
 ### 开源活动
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/wu9o/cogita/pull/61) in [wu9o/cogita](https://github.com/wu9o/cogita)
-2. 💪 Opened PR [#61](https://github.com/wu9o/cogita/pull/61) in [wu9o/cogita](https://github.com/wu9o/cogita)
-3. 🎉 Merged PR [#59](https://github.com/wu9o/cogita/pull/59) in [wu9o/cogita](https://github.com/wu9o/cogita)
-4. 💪 Opened PR [#59](https://github.com/wu9o/cogita/pull/59) in [wu9o/cogita](https://github.com/wu9o/cogita)
+1. 🎉 Merged PR [#63](https://github.com/wu9o/cogita/pull/63) in [wu9o/cogita](https://github.com/wu9o/cogita)
+2. 💪 Opened PR [#63](https://github.com/wu9o/cogita/pull/63) in [wu9o/cogita](https://github.com/wu9o/cogita)
+3. 🚀 Published release [Movea 0.1.0 · 起跑线 Trailhead](https://github.com/wu9o/movea/releases/tag/v0.1.0) in [wu9o/movea](https://github.com/wu9o/movea)
+4. 🎉 Merged PR [#61](https://github.com/wu9o/cogita/pull/61) in [wu9o/cogita](https://github.com/wu9o/cogita)
 <!--END_SECTION:activity-->
 
 <p align="center">
