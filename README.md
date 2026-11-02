@@ -1,54 +1,43 @@
 <div align="right">
 
-  **🇺🇸 English** | **[🇨🇳 中文](./README.zh.md)**
+**English** · [中文](./README.zh.md)
 
 </div>
 
 <h1 align="center">Hi, I'm wu9o.</h1>
 
-<p align="center">
-  <strong>AI knowledge systems · Developer tools · Open source</strong>
-</p>
+<p align="center"><strong>AI knowledge systems · Knowledge publishing · Developer tools</strong></p>
 
 <p align="center">
-  <a href="https://wu9o.github.io/cogita-blog/">Blog</a>
-  ·
-  <a href="https://github.com/wu9o">GitHub</a>
-  ·
-  <a href="https://x.com/wu9ors">X</a>
-  ·
+  <a href="https://wu9o.github.io/cogita-blog/">Blog</a> ·
+  <a href="https://wu9o.github.io/cogita/">Cogita docs</a> ·
+  <a href="https://x.com/wu9ors">X</a> ·
   <a href="mailto:wu9ors@gmail.com">Email</a>
 </p>
 
-> I build knowledge systems and developer tools for the AI era—turning scattered knowledge into structured, searchable, and reusable systems. My background is in frontend architecture and developer infrastructure, and my current focus is the space where AI, knowledge, and real-world workflows meet.
+My background is in frontend architecture and developer infrastructure. I explore how scattered information becomes searchable, reusable knowledge, and how AI fits into everyday work.
 
-### Now
+### What I focus on
 
-- **Building toward AI knowledge systems** — exploring how knowledge can be collected, structured, retrieved, and continuously improved.
-- **Making AI tools useful in practice** — working with MCP, AI-assisted workflows, and developer-facing tools through [Aetheria](https://github.com/wu9o/aetheria).
-- **Writing in public** — using [Cogita Blog](https://github.com/wu9o/cogita-blog) to document engineering practice, experiments, and longer-term thinking.
+- **Knowledge engineering**: collecting, organizing, retrieving, and keeping knowledge up to date.
+- **Knowledge publishing**: connecting content, themes, and presentation through Cogita to turn engineering experience into readable blogs, docs, and knowledge bases.
+- **Developer workflows**: exploring AI-assisted work and building small tools around concrete problems in daily development.
 
-### Selected work
+### Public projects
 
-#### 🧠 AI & knowledge
+| Project | What it does |
+| --- | --- |
+| **[Cogita](https://github.com/wu9o/cogita)** | A static site framework built on Rspress, React, and TypeScript. Themes, plugins, and content sources support blogs, docs, and knowledge bases. |
+| **[Cogita Blog](https://github.com/wu9o/cogita-blog)** | My technical writing on frontend engineering, Git, and AI, and a practical consumer of Cogita. |
 
-**[Aetheria](https://github.com/wu9o/aetheria)** — A TypeScript monorepo for MCP tools, including Femock, an AI-driven mock interview tool with knowledge-base integration.
+[Read the blog](https://wu9o.github.io/cogita-blog/) · [Explore Cogita demos](https://wu9o.github.io/cogita/demos/)
 
-**[WarpCN](https://github.com/wu9o/warp-cn)** — A Chinese version of Warp, exploring a more localized and AI-native development environment for Chinese developers.
+### Everyday tools
 
-#### 📚 Knowledge publishing
+- **[cleanbranches](https://github.com/wu9o/ohmyzsh-cleanbranches)**: interactive local Git branch cleanup with Zsh and fzf.
+- **[vim-cheatkey](https://github.com/wu9o/vim-cheatkey)**: searchable keybindings and commands inside Vim.
 
-**[Cogita](https://github.com/wu9o/cogita)** — A theme-driven static site framework built on Rspress, with reusable themes and plugins.
-
-**[Cogita Blog](https://github.com/wu9o/cogita-blog)** — My personal technical blog, built with Cogita and used to turn engineering work into an evolving public knowledge base.
-
-#### 🧱 Engineering foundations
-
-**[NexusMF](https://github.com/wu9o/nexus-mf)** — A sandbox framework for Webpack Module Federation and scalable micro-frontend applications.
-
-**Toolbox:** [cleanbranches](https://github.com/wu9o/ohmyzsh-cleanbranches) · [vim-cheatkey](https://github.com/wu9o/vim-cheatkey)
-
-### Writing & notes
+### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
 * [Git 本地常驻修改：让文件改动只存在于你的电脑上](https://wu9o.github.io/cogita-blog/posts/git-local-persistent-modifications) - August 11, 2026
@@ -58,14 +47,16 @@
 * [Git Rebase 技术原理与实践指南](https://wu9o.github.io/cogita-blog/posts/git-rebase) - October 29, 2025
 <!-- BLOG-POST-LIST:END -->
 
-### Open-source activity
+<details>
+<summary>Past work · Archived</summary>
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/wu9o/cogita/pull/63) in [wu9o/cogita](https://github.com/wu9o/cogita)
-2. 💪 Opened PR [#63](https://github.com/wu9o/cogita/pull/63) in [wu9o/cogita](https://github.com/wu9o/cogita)
-3. 🚀 Published release [Movea 0.1.0 · 起跑线 Trailhead](https://github.com/wu9o/movea/releases/tag/v0.1.0) in [wu9o/movea](https://github.com/wu9o/movea)
-4. 🎉 Merged PR [#61](https://github.com/wu9o/cogita/pull/61) in [wu9o/cogita](https://github.com/wu9o/cogita)
-<!--END_SECTION:activity-->
+These projects retain their code and history. They are no longer under active development.
+
+- **[Aetheria](https://github.com/wu9o/aetheria)**: MCP tool experiments, including the Femock frontend mock interview tool.
+- **[NexusMF](https://github.com/wu9o/nexus-mf)**: a micro-frontend sandbox framework and examples built around Webpack Module Federation.
+- **[Movea](https://github.com/wu9o/movea)**: an experimental Flutter activity and health app.
+
+</details>
 
 <p align="center">
   <!-- PROFILE-UPDATED:START -->
